@@ -1,0 +1,2 @@
+# GuoguangUpdater
+Guoguang update repository.
